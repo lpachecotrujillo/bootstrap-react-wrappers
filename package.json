@@ -3,12 +3,23 @@
   "version": "1.0.0",
   "description": "This project provides wrapper ReactJS components for the most common Bootstrap components.",
   "main": "index.js",
-  "keywords": "Bootstrap React ReactJS Components Classes Wrappers",
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.5"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lpachecotrujillo/bootstrap-react-wrappers.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "React",
+    "ReactJS",
+    "Components",
+    "Classes",
+    "Wrappers"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
